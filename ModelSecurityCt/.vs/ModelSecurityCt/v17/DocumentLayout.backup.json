@@ -1,0 +1,996 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\entity\\dto\\roluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\roluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\entity\\model\\roluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\roluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\web\\controllers\\rolusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\rolusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\data\\repositories\\roluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\roluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\business\\core\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\core\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\business\\core\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\core\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\business\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\utilities\\mapping\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|solutionrelative:utilities\\mapping\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\data\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\data\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\data\\core\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\core\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\business\\services\\formmoduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\formmoduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\web\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\data\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\data\\repositories\\formmodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\formmodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\business\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\data\\repositories\\formrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\formrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\business\\services\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\data\\interfaces\\imodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\imodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\data\\repositories\\modulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\modulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\web\\controllers\\formmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\formmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\business\\services\\roluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\roluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\business\\services\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\business\\services\\moduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\moduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\entity\\model\\formmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\formmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\entity\\dto\\formmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\formmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\data\\repositories\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\entity\\dto\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\web\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\web\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\entity\\dto\\formdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\formdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\data\\interfaces\\iformmodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\iformmodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\data\\repositories\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\web\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\web\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\web\\controllers\\rolformpermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\rolformpermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\business\\services\\rolformpermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\rolformpermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\business\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\data\\interfaces\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\utilities\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|solutionrelative:utilities\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\utilities\\dataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|solutionrelative:utilities\\dataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\entity\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\entity\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\business\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\business\\interfaces\\iformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\interfaces\\iformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\data\\interfaces\\iroluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\iroluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\entity\\ddl\\mysql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\ddl\\mysql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\entity\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\guerr\\source\\repos\\modelo\\modelsecurityct\\entity\\ddl\\mysql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\ddl\\mysql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Core\\IRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Core\\IRepository.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Core\\IRepository.cs",
+              "RelativeToolTip": "Data\\Core\\IRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:28:58.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Interfaces\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IPersonRepository.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Interfaces\\IPersonRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IPersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:14:00.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:27:57.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RolUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Repositories\\RolUserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\RolUserRepository.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Repositories\\RolUserRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\RolUserRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:27:31.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RolUserController.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\RolUserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\RolUserController.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\RolUserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\RolUserController.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:31:32.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Core\\IServiceBase.cs",
+              "RelativeDocumentMoniker": "Business\\Core\\IServiceBase.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Core\\IServiceBase.cs",
+              "RelativeToolTip": "Business\\Core\\IServiceBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:51:35.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Core\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "Business\\Core\\ServiceBase.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Core\\ServiceBase.cs",
+              "RelativeToolTip": "Business\\Core\\ServiceBase.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAuwHQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:51:33.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\Model\\Rol.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Rol.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\Model\\Rol.cs",
+              "RelativeToolTip": "Entity\\Model\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:29:23.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RolUser.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\Model\\RolUser.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\RolUser.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\Model\\RolUser.cs",
+              "RelativeToolTip": "Entity\\Model\\RolUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:31:21.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\DTO\\RolUserDTO.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\RolUserDTO.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\DTO\\RolUserDTO.cs",
+              "RelativeToolTip": "Entity\\DTO\\RolUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:31:31.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Core\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Core\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Core\\GenericRepository.cs",
+              "RelativeToolTip": "Data\\Core\\GenericRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:26:12.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\PersonService.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\PersonService.cs",
+              "RelativeToolTip": "Business\\Services\\PersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:09:59.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormModuleService.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\FormModuleService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\FormModuleService.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\FormModuleService.cs",
+              "RelativeToolTip": "Business\\Services\\FormModuleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:21:38.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MapsterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Utilities\\Mapping\\MapsterConfig.cs",
+              "RelativeDocumentMoniker": "Utilities\\Mapping\\MapsterConfig.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Utilities\\Mapping\\MapsterConfig.cs",
+              "RelativeToolTip": "Utilities\\Mapping\\MapsterConfig.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T04:05:40.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IModuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Interfaces\\IModuleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IModuleRepository.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Interfaces\\IModuleRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IModuleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:19:46.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormService.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\FormService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\FormService.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\FormService.cs",
+              "RelativeToolTip": "Business\\Services\\FormService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:07:49.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\RolController.cs",
+              "RelativeToolTip": "Web\\Controllers\\RolController.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAwwHcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:27:40.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PermissionService.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\PermissionService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\PermissionService.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\PermissionService.cs",
+              "RelativeToolTip": "Business\\Services\\PermissionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:08:09.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Repositories\\FormRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\FormRepository.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Repositories\\FormRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\FormRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:26:39.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Repositories\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Repositories\\PersonRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\PersonRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:31:38.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormModuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Repositories\\FormModuleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\FormModuleRepository.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Repositories\\FormModuleRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\FormModuleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:09:23.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ModuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Repositories\\ModuleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ModuleRepository.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Repositories\\ModuleRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ModuleRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:44:36.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormModuleController.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\FormModuleController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\FormModuleController.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\FormModuleController.cs",
+              "RelativeToolTip": "Web\\Controllers\\FormModuleController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAgwHQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:29:06.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RolUserService.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\RolUserService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\RolUserService.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\RolUserService.cs",
+              "RelativeToolTip": "Business\\Services\\RolUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:18:23.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RolService.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\RolService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\RolService.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\RolService.cs",
+              "RelativeToolTip": "Business\\Services\\RolService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:13:47.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ModuleService.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\ModuleService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\ModuleService.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\ModuleService.cs",
+              "RelativeToolTip": "Business\\Services\\ModuleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:11:19.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormModule.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\Model\\FormModule.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\FormModule.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\Model\\FormModule.cs",
+              "RelativeToolTip": "Entity\\Model\\FormModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:28:48.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormModuleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\DTO\\FormModuleDTO.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\FormModuleDTO.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\DTO\\FormModuleDTO.cs",
+              "RelativeToolTip": "Entity\\DTO\\FormModuleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:53:45.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RolDTO.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\DTO\\RolDTO.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\RolDTO.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\DTO\\RolDTO.cs",
+              "RelativeToolTip": "Entity\\DTO\\RolDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:19:21.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PermissionController.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\PermissionController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\PermissionController.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\PermissionController.cs",
+              "RelativeToolTip": "Web\\Controllers\\PermissionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:34:26.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ModuleController.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\ModuleController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\ModuleController.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\ModuleController.cs",
+              "RelativeToolTip": "Web\\Controllers\\ModuleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:24:17.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RolRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Repositories\\RolRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\RolRepository.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Repositories\\RolRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\RolRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T04:21:14.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Web",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Web.csproj",
+              "RelativeDocumentMoniker": "Web\\Web.csproj",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Web.csproj",
+              "RelativeToolTip": "Web\\Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T05:37:36.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IFormModuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Interfaces\\IFormModuleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IFormModuleRepository.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Interfaces\\IFormModuleRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IFormModuleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:27:44.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PermissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Repositories\\PermissionRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PermissionRepository.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Repositories\\PermissionRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\PermissionRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:27:05.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormDTO.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\DTO\\FormDTO.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\FormDTO.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\DTO\\FormDTO.cs",
+              "RelativeToolTip": "Entity\\DTO\\FormDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:49:50.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormController.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\FormController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\FormController.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\FormController.cs",
+              "RelativeToolTip": "Web\\Controllers\\FormController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:24:01.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Web\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:24:01.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RolFormPermissionController.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\RolFormPermissionController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\RolFormPermissionController.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\RolFormPermissionController.cs",
+              "RelativeToolTip": "Web\\Controllers\\RolFormPermissionController.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAiwM4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:32:53.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\UserController.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAwwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:26:09.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T20:42:19.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RolFormPermissionService.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\RolFormPermissionService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\RolFormPermissionService.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\RolFormPermissionService.cs",
+              "RelativeToolTip": "Business\\Services\\RolFormPermissionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:20:10.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Services\\UserService.cs",
+              "RelativeToolTip": "Business\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:16:47.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAMwDAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:34:07.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Utilities\\BusinessException.cs",
+              "RelativeDocumentMoniker": "Utilities\\BusinessException.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Utilities\\BusinessException.cs",
+              "RelativeToolTip": "Utilities\\BusinessException.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAADwv/gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:22:32.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IRolRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Interfaces\\IRolRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IRolRepository.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Interfaces\\IRolRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IRolRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:29:10.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DataException.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Utilities\\DataException.cs",
+              "RelativeDocumentMoniker": "Utilities\\DataException.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Utilities\\DataException.cs",
+              "RelativeToolTip": "Utilities\\DataException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:22:34.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entity\\context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwDoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:42:51.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\Model\\User.cs",
+              "RelativeToolTip": "Entity\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:52:49.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IFormService.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Interfaces\\IFormService.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IFormService.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Interfaces\\IFormService.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IFormService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:08:14.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Interfaces\\IPersonService.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IPersonService.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Business\\Interfaces\\IPersonService.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IPersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:08:11.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\Model\\Person.cs",
+              "RelativeToolTip": "Entity\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:29:25.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\DTO\\PersonDTO.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\PersonDTO.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\DTO\\PersonDTO.cs",
+              "RelativeToolTip": "Entity\\DTO\\PersonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:35:42.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IRolUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Interfaces\\IRolUserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IRolUserRepository.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Data\\Interfaces\\IRolUserRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IRolUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:27:23.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\Model\\Permission.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Permission.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\Model\\Permission.cs",
+              "RelativeToolTip": "Entity\\Model\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:29:31.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Entity\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:53:48.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MySql.sql ",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\DDL\\MySql.sql",
+              "RelativeDocumentMoniker": "Entity\\DDL\\MySql.sql",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\Modelo\\ModelSecurityCt\\Entity\\DDL\\MySql.sql",
+              "RelativeToolTip": "Entity\\DDL\\MySql.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-08T21:01:49.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
